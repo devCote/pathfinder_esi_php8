@@ -18,7 +18,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/devcote/pathfinder_esi_php8"
+      "url": "https://github.com/exodus4d/pathfinder_esi"
     }
   ],
   "autoload": {
