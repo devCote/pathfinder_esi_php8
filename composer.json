@@ -1,7 +1,7 @@
 {
   "name": "devcote/pathfinder_esi_php8",
   "description": "ESI API library for Pathfinder",
-  "type": "library",
+  "type": "project",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
