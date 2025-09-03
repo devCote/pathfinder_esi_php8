@@ -1,14 +1,14 @@
 {
-  "name": "exodus4d/pathfinder_esi",
+  "name": "devcote/pathfinder_esiphp8",
   "description": "ESI API library for Pathfinder",
   "type": "library",
-  "homepage": "https://github.com/exodus4d/pathfinder_esi",
+  "homepage": "https://github.com/devcote/pathfinder_esi_php8",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Mark Friedrich",
-      "email": "pathfinder@exodus4d.de"
+      "name": "devcote",
+      "email": "defcote@gmail.com"
     }
   ],
   "config": {
@@ -18,7 +18,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/exodus4d/pathfinder_esi"
+      "url": "https://github.com/devcote/pathfinder_esi_php8"
     }
   ],
   "autoload": {
