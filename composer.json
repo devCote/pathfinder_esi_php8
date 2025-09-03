@@ -2,7 +2,7 @@
   "name": "devcote/pathfinder_project",
   "description": "ESI API library for Pathfinder",
   "type": "library",
-  "homepage": "https://github.com/devcote/pathfinder_esi_php8",
+  "homepage": "https://github.com/devcote/pathfinder_esi_php_8",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
